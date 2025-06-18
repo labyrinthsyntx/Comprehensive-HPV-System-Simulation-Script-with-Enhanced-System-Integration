@@ -74,3 +74,5 @@ Version History
 Date (YYYY-MM-DD)	Notes
 2024-09-19	First public draft
 2025-06-17	Added MRF sweep, expanded visualisations, improved comments
+
+Martinez, D., & Yip, T. (2024, September 19). Comprehensive HPV system simulation script with enhanced system integration (MATLAB code, Version 2025-06-17) [Computer software]
