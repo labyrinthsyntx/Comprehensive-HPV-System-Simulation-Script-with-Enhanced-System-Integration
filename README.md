@@ -1,6 +1,6 @@
 # Comprehensive HPV System Simulation  
 **Filename:** `HPV_System_Simulation.m`  
-**Authors:** Derek Martinez & Tim Yip  
+**Authors:** Derek Martinez, Tim Yip, Darius Totah, Trevor Moore
 **Initial release:** 19 September 2024  
 **Last update:** 17 June 2025  
 
